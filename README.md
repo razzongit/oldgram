@@ -23,19 +23,19 @@ A simple Instagram-like feed built with **HTML**, **CSS**, and **JavaScript**, f
    - The **post image** → detects double-click to like  
 4. The like count updates immediately in the DOM.  
 
-## 📂 Installation & Usage
+ 📂 Installation & Usage
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/instagram-like-feed.git
    ```
 2.Open index.html in your browser.
 
-##💡 Lessons Learned
+💡 Lessons Learned
 -Attaching event listeners dynamically to multiple elements
 
 -Handling double-click events in JavaScript
 
 -Avoiding duplicate id issues in dynamic DOM creation
 
-##🔗 [Live Preview](https://instagram-like-feed.netlify.app)
+🔗 [Live Preview](https://oldgram.netlify.app)
 
