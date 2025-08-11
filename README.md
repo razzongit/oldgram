@@ -37,5 +37,5 @@ A simple Instagram-like feed built with **HTML**, **CSS**, and **JavaScript**, f
 
 -Avoiding duplicate id issues in dynamic DOM creation
 
-🔗 [Live Preview](https://oldgram.netlify.app)
+🔗 [Live Preview](https://myoldgram.netlify.app)
 
